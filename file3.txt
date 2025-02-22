@@ -1,0 +1,6 @@
+git init
+git add README.md
+git commit -m "first commit created backend  routes,models and controllers of login,register,forgot-password and resetting and someother crud functions in book,user management"
+git branch -M main
+git remote add origin https://github.com/ShalukaPiuminda/simple-MernLibraryApp.git
+git push -u origin main
